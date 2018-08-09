@@ -1,0 +1,6 @@
+framework module FHXColorAndFont {
+  umbrella header "FHXColorAndFont-umbrella.h"
+
+  export *
+  module * { export * }
+}

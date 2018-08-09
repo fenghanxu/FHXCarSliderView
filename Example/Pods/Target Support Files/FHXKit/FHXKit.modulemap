@@ -1,0 +1,6 @@
+framework module FHXKit {
+  umbrella header "FHXKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

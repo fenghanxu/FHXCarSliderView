@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXCarSliderView_Example' do
+  pod 'FHXCarSliderView', :path => '../'
+
+  target 'FHXCarSliderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

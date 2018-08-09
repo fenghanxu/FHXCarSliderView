@@ -1,0 +1,6 @@
+framework module FHXCarSliderView {
+  umbrella header "FHXCarSliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}

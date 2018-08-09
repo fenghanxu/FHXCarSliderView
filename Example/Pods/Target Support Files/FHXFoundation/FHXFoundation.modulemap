@@ -1,0 +1,6 @@
+framework module FHXFoundation {
+  umbrella header "FHXFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
